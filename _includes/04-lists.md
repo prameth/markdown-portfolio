@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+### the list of my favorite things
+Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
